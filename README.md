@@ -1,2 +1,3 @@
 # hello-world
-This is the first repository I make
+
+In this file I am learning how to make commits to a git repository.
